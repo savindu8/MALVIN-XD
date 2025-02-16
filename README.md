@@ -1,20 +1,30 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-</p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN+XD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>
+---  
+
+> **`Still Updating To` Version 2.0....**
+---
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+<p align="center"> 
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗠𝗔𝗟𝗩𝗜𝗡+𝗫𝗗+𝗩2 ❤️+;𝗠𝗔𝗟𝗩𝗜𝗡-+𝗫𝗗-+𝗩2 🎉;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗥-𝗠𝗔𝗟𝗩𝗜𝗡 ✔️" alt="Typing SVG" /></a>
+  </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <img align="center" height="auto"
-src="https://files.catbox.moe/bddvfr.jpg?"/>
+src="https://files.catbox.moe/y65ffs.jpg?"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
 <br>
-
-   </p>
-<p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Malvin King-purple?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/Yt Channel-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
-<p/> 
+<p align="center"
+  <a href="https://github.com/kingmalvn/MALVIN-XD">
+    <img src="https://komarev.com/ghpvc/?username=kingmalvn&label=Profile%20views&color=brightgreen&label=Profile+Views&style=plastic">
+  </a>
+  
+</p> 
 
  <p align="center">
 <a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=purple&style=flat-square"></a>
@@ -39,18 +49,26 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 
 **How to deploy**
 
-**1. Fork This Repository**
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🙏+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢+⤵️)](https://git.io/typing-svg)
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
   <a href="https://github.com/kingmalvn/MALVIN-XD/fork"><img title="MALVIN-XD" src="https://img.shields.io/badge/FORK-MALVIN-XDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
    
-**2. Second Step** 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=🤖+𝗚𝗘𝗧+𝗕𝗢𝗧+𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗟𝗜𝗡𝗞𝗦+⤵️)](https://git.io/typing-svg) 
 
 *_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
 <p align="centre">
-<a href='https://malvinxd-pair-fa60c7bfab6b.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://xdv2-6da4623bf414.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-pink?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+
+or
+
+<p align="centre">
+<a href='https://xdv23-6da4623bf414.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 **2.2 QR CODE**
 
@@ -70,7 +88,7 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 
 **Now Deploy to any hosting of ur choice**
 
-**1.Heroku Deploy**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨+🛰️)](https://git.io/typing-svg)
 
 •If you don't have an account in Heroku, create one.
    <br>
@@ -81,41 +99,43 @@ src="https://files.catbox.moe/bddvfr.jpg?"/>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MALVIN-XD-Heroku) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-**2.⏏️ DEPLOY VIA RAILWAY**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗔𝗜𝗟𝗪𝗔𝗬+🛰️)](https://git.io/typing-svg)
 
 [![Deploy to Railway](https://img.shields.io/badge/RAILWAY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black)](https://railway.com)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-**3. Koyeb Deploy**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗞𝗢𝗬𝗘𝗕+🛰️)](https://git.io/typing-svg)
 
 <p align="left">
 <a href='https://app.koyeb.com/services/deploy?type=git&repository=kingmalvn/MALVIN-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20MALVIN-XD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
    
-**4. Render Deploy**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗘𝗡𝗗𝗘𝗥+🛰️)](https://git.io/typing-svg)
 
 
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-**5. Replit Deploy**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗘𝗣𝗟𝗜𝗧+🛰️)](https://git.io/typing-svg)
 
 <p align="left">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/>
  
-**7.  DEPLOY IN GLITCH**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗚𝗟𝗜𝗧𝗖𝗛+🛰️)](https://git.io/typing-svg)
 
 <a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-**8.  DEPLOY TO CODESPACE**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗖𝗢𝗗𝗘𝗦𝗣𝗔𝗖𝗘+🛰️)](https://git.io/typing-svg)
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪𝗦+🛰️)](https://git.io/typing-svg)
 
  <h4 align="center">9. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -228,3 +248,6 @@ _ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ �
 If you have any feedback, please reach out to us at nexusxd.bot@gmail.com
 
 ### <br> No LOVE 💕 NO STRESS ☺️
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+ 
